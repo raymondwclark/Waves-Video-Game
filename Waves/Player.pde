@@ -1,3 +1,9 @@
+/*************************************** 
+/*
+/*Created and developed by Raymond Clark
+/*
+****************************************/
+
 class Player {
  PVector player = new PVector(300,300);
  PImage[] images;

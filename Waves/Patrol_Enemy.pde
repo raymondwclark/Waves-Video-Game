@@ -1,3 +1,9 @@
+/*************************************** 
+/*
+/*Created and developed by Raymond Clark
+/*
+****************************************/
+
 class Patrol_Enemy {
   PVector myPatrolEnemy; 
   float speed;

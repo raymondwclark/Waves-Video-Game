@@ -1,3 +1,9 @@
+/*************************************** 
+/*
+/*Created and developed by Raymond Clark
+/*
+****************************************/
+
 class Bullet extends PVector {
   PVector velocity;
   

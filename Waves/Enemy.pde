@@ -1,3 +1,9 @@
+/*************************************** 
+/*
+/*Created and developed by Raymond Clark
+/*
+****************************************/
+
 class Enemy {
  PVector myEnemy = new PVector(random(1280),random(90,720));
  float speed = random(4,5);

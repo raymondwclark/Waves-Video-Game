@@ -1,3 +1,9 @@
+/*************************************** 
+/*
+/*Created and developed by Raymond Clark
+/*
+****************************************/
+
 class HealthPack {
  PImage health = loadImage("healthpack.png");
  float healthPosX;
